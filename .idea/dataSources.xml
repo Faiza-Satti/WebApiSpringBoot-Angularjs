@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="demo/Hibernate" uuid="0ccaf24b-eeeb-422f-aeb5-4581b3b83538">
+      <driver-ref>cassandra</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.dbschema.CassandraJdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/test?useUnicode=true&amp;useJDBCCompliantTim</jdbc-url>
+    </data-source>
+  </component>
+</project>
